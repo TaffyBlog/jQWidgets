@@ -1,11 +1,11 @@
 {
-  "name": "jqwidgets-framework",
+  "name": "taffy-jqwidgets-framework",
   "version": "10.1.6",
   "description": "jQWidgets is an advanced Angular, Vue, React, Blazor, Web Components, jquery, ASP .NET MVC, Custom Elements and HTML5 UI framework.",
   "main": "jqwidgets/jqx-all.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jqwidgets/jQWidgets"
+    "url": "git://github.com/TaffyBlog/jQWidgets"
   },
   "keywords": [
     "JavaScript",
